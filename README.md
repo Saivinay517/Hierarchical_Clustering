@@ -20,3 +20,9 @@ Create a hirarchy model and visualize the cluster with the help of matplotlib li
 ![image](https://github.com/Saivinay517/Hierarchical_Clustering/assets/116196075/7ba19062-4246-4246-9ff5-ea6e3e43bdfd)
 # Conclusion:
 According to the model building as a engineer my predicition is Cluster-3 as give highest number of linkage.
+# Insights:
+## Cluster-1 contains(Red) which shows that Unsupervised Learning cluster as maximum Eculidian Distance from the centroid upto annual income approximate 139ks
+## Cluster-2 contains(Blue) which shows that Unsupervised Learning cluster as maximum Eculidian distance from the centroid upto annual income approximate 79 to 80ks
+## Cluster-3 contains(Green) which shows that Unsupervised Learning cluster as maximum Eculidian distance from the centroid upto annual income approximate 139ks
+## Cluster-4 contains(Skyblue) which shows that Unsupervised Learning cluster as maximum Eculidian distance from the centroid upto annual income approximate 40ks
+## Cluster-5 contains(Pink) which shows that Unsupervised Learning cluster as maximum Eculidian distance from the centroid upto annual income approximate 40ks
